@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated MSc thesis."
+title: "Deep Reinforcement Learning for Quantum Optimisation"
+authors:
+  - family-names: Gupta
+    given-names: Sambhav
+type: software
+license: MIT
+year: 2026

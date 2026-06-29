@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Training artefacts (regenerate; do not commit)
+results_*/
+results/
+*.keras
+*.h5
+*.ckpt
+saved_model/
+models/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# LaTeX aux (if you add thesis source later)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+*.toc
+*.synctex.gz

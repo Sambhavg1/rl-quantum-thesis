@@ -1,0 +1,10 @@
+# Versions used to produce the thesis results.
+# NOTE: the environments were written against the original `gym` API
+# (gym.Env, 4-tuple step). See code/README.md for the gymnasium migration note.
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+tensorflow==2.18.0
+gym==0.26.2
